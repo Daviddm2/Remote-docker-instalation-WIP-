@@ -1,0 +1,10 @@
+Nextcloud
+Pi-hole
+Nginx
+MariaDB
+phpMyAdmin
+GitLab
+Rocket.Chat
+Uptime Kuma
+Watchtower
+Exit
